@@ -1,16 +1,17 @@
 {
   "Employee_Details":[
-  {
-    "FirstName": "SivaPriya",
-    "LastName": "Peta",
-    "Email": "sivapriya@gmail.com",
-    "Role" : "Non_Admin"
-  },
-  {
-    "FirstName": "Vigeesh Kumar",
-    "LastName": "Viruppil",
-    "Email": "vigeesh@gmail.com",
-    "Role" : "Admin"
-  }
+    {
+      "FirstName": "SivaPriya",
+      "LastName": "Peta",
+      "Email": "sivapriya@gmail.com",
+      "Role" : "Non_Admin"
+    },
+    {
+      "FirstName": "Vigeesh Kumar",
+      "LastName": "Viruppil",
+      "Email": "vigeesh@gmail.com",
+      "Role" : "Admin"
+    }
+  ]
 }
     
